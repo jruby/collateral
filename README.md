@@ -5,6 +5,8 @@
 - Shirts
 - Etc
 
+As per the following license, please attribute with "Copyright (c) Tony Price 2011, licensed under the terms of Creative Commons Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)".
+
 ## License
 
 ### [Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)](http://creativecommons.org/licenses/by-nd/3.0/ "Creative Commons &mdash; Attribution-NoDerivs 3.0 Unported &mdash; CC BY-ND 3.0")
